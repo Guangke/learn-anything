@@ -1,0 +1,18 @@
+{
+  "name": "learn-anything",
+  "description": "AI-powered deep learning for any topic — find the best books, synthesize a custom textbook, study chapter-by-chapter with exercises and feedback",
+  "version": "1.0.0",
+  "author": {
+    "name": "Guangke"
+  },
+  "homepage": "https://github.com/Guangke/learn-anything",
+  "repository": "https://github.com/Guangke/learn-anything",
+  "license": "MIT",
+  "keywords": [
+    "learning",
+    "education",
+    "study",
+    "books",
+    "knowledge"
+  ]
+}

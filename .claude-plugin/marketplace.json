@@ -1,0 +1,15 @@
+{
+  "name": "learn-anything",
+  "metadata": {
+    "description": "AI-powered deep learning for any topic — synthesizes a custom textbook from the best books in the field, with exercises and interactive study sessions"
+  },
+  "owner": {
+    "name": "Guangke"
+  },
+  "plugins": [
+    {
+      "name": "learn-anything",
+      "source": "."
+    }
+  ]
+}
